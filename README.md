@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TobieTom. You can call me Tobias
-- 👀 I’m interested in Ethical Hacking and Blockchain Technology cause I feel its fun and challenging
-- 🌱 I’m currently learning Cairo & Rust and I am already well-versed in C++ 
-- 💞️ I’m looking to collaborate on any blockchain and cyber security related projects
+- 👀 I’m interested in Ethical Hacking and Blockchain Technology cause I feel it's fun and challenging
+- 🌱 I am already well-versed in Python
+- 💞️ I’m looking to collaborate on any blockchain and cybersecurity-related projects
 - 📫 How to reach me: You can reach me via email tobijunior93@gmail.com
-- ⚡ Fun fact: I love anime and I pride myself in speed and efficiency
+- ⚡ Fun fact: I love anime, and I pride myself on speed and efficiency
 
 
 <!---
